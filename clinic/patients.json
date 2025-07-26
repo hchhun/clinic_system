@@ -1,0 +1,10 @@
+{"__type__": "Patient", "phn": 9790012000, "name": "John Doe", "birth_date": "2000-10-10", "phone": "250 203 1010", "email": "john.doe@gmail.com", "address": "300 Moss St, Victoria", "autosave": true}
+{"__type__": "Patient", "phn": 9790014444, "name": "Mary Doe", "birth_date": "1995-07-01", "phone": "250 203 2020", "email": "mary.doe@gmail.com", "address": "300 Moss St, Victoria", "autosave": true}
+{"__type__": "Patient", "phn": 9792225555, "name": "Joe Hancock", "birth_date": "1990-01-15", "phone": "278 456 7890", "email": "john.hancock@outlook.com", "address": "5000 Douglas St, Saanich", "autosave": true}
+{"__type__": "Patient", "phn": 12312313, "name": "", "birth_date": "", "phone": "", "email": "", "address": "", "autosave": true}
+{"__type__": "Patient", "phn": 2313132, "name": "", "birth_date": "", "phone": "", "email": "", "address": "", "autosave": false}
+{"__type__": "Patient", "phn": "hello", "name": "", "birth_date": "", "phone": "", "email": "", "address": "", "autosave": false}
+{"__type__": "Patient", "phn": 1233, "name": "hello", "birth_date": "dkawnda", "phone": "dkjwanda", "email": "dwa", "address": "dkjawndjka", "autosave": false}
+{"__type__": "Patient", "phn": 12345678, "name": "jghvivughih", "birth_date": "", "phone": "", "email": "", "address": "", "autosave": true}
+{"__type__": "Patient", "phn": 12345, "name": "gdfsvdia", "birth_date": "dwadaw", "phone": "", "email": "", "address": "", "autosave": true}
+{"__type__": "Patient", "phn": 23456789, "name": "45678976", "birth_date": "67876", "phone": "", "email": "", "address": "", "autosave": true}
